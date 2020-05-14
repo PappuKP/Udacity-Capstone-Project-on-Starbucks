@@ -3,8 +3,8 @@
 This repository has been made to support the blog post produced as a deliverable to the capstone project of the data science nanodegree offered by Udacity.
 
 The blogpost can be found here: 
-<br>
-https://medium.com/@pappuskskumar/how-any-mnc-or-startup-companies-make-sense-out-of-you-c5a8f4be217?sk=df1eeecb08f06acff707895858ab16ac
+<br><br>
+> https://medium.com/@pappuskskumar/how-any-mnc-or-startup-companies-make-sense-out-of-you-c5a8f4be217?sk=df1eeecb08f06acff707895858ab16ac
 <br>
 Starbucks are providing data describing the transactions by a set of users with some features like age, gender and income through a period of time when they were exposed to different types of offers.
 
