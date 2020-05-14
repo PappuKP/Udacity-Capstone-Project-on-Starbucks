@@ -63,4 +63,5 @@ A folder of plots produced for reporting
 
 ## Aknowledgements
 
-
+1. Thank you Udacity for giving the direction and scope of the project.
+2. Thank you my Instructor wgo tought me Alot about this Technologies.
